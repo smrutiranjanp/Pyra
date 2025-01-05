@@ -284,9 +284,4 @@ The Pyra runtime provides the environment for executing Pyra programs. It includ
 
 ---
 
-### bu
-
-For a detailed implementation guide, visit the [Pyra GitHub Repository](https://github.com/pyra-lang).
-
----
 
